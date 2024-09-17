@@ -45,5 +45,4 @@ Este projeto é um site simples desenvolvido em React que permite aos usuários 
 
 ### 📸 Tela do Site em Execução
 
-<h1 align="center"> <img src=""
-alt="Tela de execução do aplicativo de filmes"/> </h1>
+![Captura de tela 2024-09-17 123801](https://github.com/user-attachments/assets/349ca945-3013-4463-b994-f8976f8f7403)
