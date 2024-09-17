@@ -1,4 +1,4 @@
-# 📝 Consulta de Filmes
+![image](https://github.com/user-attachments/assets/05204e63-5488-4fc6-9bdf-8d2a277d10bc)# 📝 Consulta de Filmes
 
 Este projeto é um site simples desenvolvido em React que permite aos usuários consultar informações sobre filmes. Ele utiliza uma API de filmes para buscar dados e exibi-los de maneira interativa e visualmente atraente.
 
@@ -45,5 +45,5 @@ Este projeto é um site simples desenvolvido em React que permite aos usuários 
 
 ### 📸 Tela do Site em Execução
 
-<h1 align="center"> <img src="![image](https://github.com/user-attachments/assets/27bd31e4-d863-4bd3-9557-21332ee7d663)
-" alt="Tela de execução do aplicativo de filmes"/> </h1>
+<h1 align="center"> <img src="![Captura de tela 2024-09-17 123801](https://github.com/user-attachments/assets/66200c75-407f-4a6d-a678-f0884f648666)"
+alt="Tela de execução do aplicativo de filmes"/> </h1>
